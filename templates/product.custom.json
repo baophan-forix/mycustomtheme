@@ -7,7 +7,7 @@
           "type": "text",
           "settings": {
             "text": "{{ product.vendor }}",
-            "text_style": "lowercase"
+            "text_style": "uppercase"
           }
         },
         "title": {
@@ -45,7 +45,7 @@
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Materials",
+            "heading": "Materials Custom",
             "icon": "leather",
             "content": "",
             "page": ""
@@ -54,7 +54,7 @@
         "collapsible-row-1": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Shipping & Returns Edited",
+            "heading": "Shipping & Returns Custom",
             "icon": "truck",
             "content": "",
             "page": ""
