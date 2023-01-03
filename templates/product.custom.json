@@ -45,7 +45,7 @@
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Materials Custom",
+            "heading": "Materials Custom 1",
             "icon": "leather",
             "content": "",
             "page": ""
@@ -54,7 +54,7 @@
         "collapsible-row-1": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Shipping & Returns Custom",
+            "heading": "Shipping & Returns Custom 1",
             "icon": "truck",
             "content": "",
             "page": ""
