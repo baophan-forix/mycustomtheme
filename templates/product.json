@@ -83,6 +83,13 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "2192d181-618c-4127-9950-8b60ad9c0c80": {
+          "type": "text",
+          "settings": {
+            "text": "Text block{{ product.metafields.custom.test.value }}Test Test",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
@@ -97,7 +104,8 @@
         "collapsible-row-1",
         "collapsible-row-2",
         "collapsible-row-3",
-        "share"
+        "share",
+        "2192d181-618c-4127-9950-8b60ad9c0c80"
       ],
       "settings": {
         "enable_sticky_info": true,
